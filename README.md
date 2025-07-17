@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/221260255?s=400&u=7d5f6cbd04f20bbf3d40914dd4a68924f09175c4&v=4" width="150" height="150" alt="Profile Picture">
+  <img src="https://github.com/zx-arif/zx-arif/blob/main/UniversalUpscaler_d79faf8b-1175-4080-85ca-6a7dd59ea842-modified%20(1).png&v=4" width="150" height="150" alt="Profile Picture">
  
 </p>
 
