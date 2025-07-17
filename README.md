@@ -7,5 +7,5 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zx-arif&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=zx-arif&color=red&style=flat" alt="Profile Views"/>
 </p>
